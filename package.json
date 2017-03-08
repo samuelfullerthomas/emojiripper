@@ -1,0 +1,13 @@
+{
+  "name": "emojiRipper",
+  "version": "0.1.0",
+  "description": "Rips emojis from a slack team to import into another slack team",
+  "main": "index.js",
+  "author": "Sam Thomas",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "config": "^1.25.1",
+    "json2yaml": "^1.1.0"
+  }
+}
